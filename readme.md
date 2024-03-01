@@ -46,6 +46,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ por <a href="https://www.instagram.com/phtec_informatica?igsh=ems1YmJyMzY5cnls" target="_blank">PHtec Informática</a>
 
 # dev-links
