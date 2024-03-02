@@ -46,6 +46,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por <a href="https://www.instagram.com/phtec_informatica?igsh=ems1YmJyMzY5cnls">PHtec Informática</a>
+Feito por: <a href="https://www.instagram.com/phtec_informatica?igsh=ems1YmJyMzY5cnls">PHtec Informática</a>
 
 # dev-links
